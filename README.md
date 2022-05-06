@@ -4,7 +4,7 @@
 Web development, AL development, and combining the two
 
 ## 🌱 I’m currently learning ...
-Various things in university. At the moment, C++
+Various things in university. At the moment, Graphics Programming
 
 ## Public Projects
 ---
